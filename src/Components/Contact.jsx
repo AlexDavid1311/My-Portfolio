@@ -1,6 +1,6 @@
 import React from 'react'
 import Heroimage from '../assets/img1.jpg'
-import { FaEnvelope, FaMapMarkerAlt, FaPhone } from 'react-icons/fa'
+import { FaEnvelope, FaMapMarkerAlt, FaPhone, FaWhateverIcon  } from 'react-icons/fa'
 
 export const Contact = () => {
   return (
